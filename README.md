@@ -1,6 +1,6 @@
 # StudentManagement
 # Introduction 
-Project mini to apply Selex Motors company 
+Project mini 
 # Technologies Used
 Java Spring boot, Spring data Jpa, Mysql
 # Install 
